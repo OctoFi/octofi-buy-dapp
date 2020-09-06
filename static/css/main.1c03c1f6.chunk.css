@@ -117,9 +117,6 @@ button.sc-btzYZH.csXCHN.sc-fjmCvl.hERIxS.buy-fiat {
     display: none;
 }
 
-a.sc-TFwJa.dXlUuH.defi {
-    display: none;
-}
 
 a.sc-TFwJa.dXlUuH.market-trade {
     display: none;
@@ -142,4 +139,35 @@ span.sc-kTUwUJ.gQwSam {
 
 .sc-elJkPf.CXEux:nth-child(4) {   
 	display: none;
+}
+
+.sc-dRFtgE.sc-hUfwpO.jDVrko {
+    display: none;
+}
+
+.sc-cugefK.daoRqh {
+    display: none;
+} 
+
+.sc-BngTV.sc-bFADNz.msmPe {
+    display: none;
+}
+
+.sc-kcDeIU.bzQENu {
+    display: none;
+}
+span.sc-drKuOJ.bHDfxc {
+    display: none;
+}
+.sc-uJMKN.gvuKdm.sc-fzsDOv.bMBNgs.sc-cqpYsc.ERGzz {
+    width: 200%;
+}
+
+.sc-BngTV.sc-bFADNz.eUzjYo {
+    display: none;
+}
+
+.DBlkt:first-child {
+    border-top-left-radius: 4px;
+    width: 200%;
 }
